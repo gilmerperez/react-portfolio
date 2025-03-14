@@ -21,7 +21,7 @@ To start the application, run the following command in your terminal:
 
 ### 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone git@github.com:gilmerperez/react-portfolio.git
 ```
 
 ### 2. Install dependencies
